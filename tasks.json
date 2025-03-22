@@ -1,0 +1,32 @@
+[
+  {
+    "description": "study for 1 hr",
+    "completed": true,
+    "timestamp": "2025-03-22 10:25:10"
+  },
+  {
+    "description": "tidy up home",
+    "completed": true,
+    "timestamp": "2025-03-22 10:25:52"
+  },
+  {
+    "description": "grab groceries from Kroger",
+    "completed": true,
+    "timestamp": "2025-03-22 10:26:30"
+  },
+  {
+    "description": "meal prep meals for week",
+    "completed": true,
+    "timestamp": "2025-03-22 10:27:17"
+  },
+  {
+    "description": "do laundry",
+    "completed": true,
+    "timestamp": "2025-03-22 10:27:39"
+  },
+  {
+    "description": "workout at 4pm",
+    "completed": true,
+    "timestamp": "2025-03-22 10:29:07"
+  }
+]
